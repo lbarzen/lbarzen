@@ -1,16 +1,19 @@
-## Hi there 👋
+ ## Hi, ich bin Leon 👋
 
-<!--
-**lbarzen/lbarzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer mit abgeschlossener Ausbildung als Fachinformatiker für Anwendungsentwicklung.  
+Mein Fokus liegt auf moderner Frontend-Entwicklung mit sauberem, responsivem und modularen Code.
 
-Here are some ideas to get you started:
+### Tech-Stack
+- HTML, CSS, JavaScript, Angular
+- PHP, Java
+- GSAP, Bootstrap
+- SQL
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aktueller Fokus
+- Vertiefung von JavaScript
+- Einstieg in TypeScript & React
+
+### Projekte & Kontakt
+🌐 https://leonbarzen.de  
+📫 Kontakt über die verlinkten sozialen Netzwerke
