@@ -3,18 +3,18 @@
 Junior Frontend Developer mit abgeschlossener Ausbildung als Fachinformatiker für Anwendungsentwicklung.  
 Mein Fokus liegt auf moderner Frontend-Entwicklung mit sauberem, responsivem und modularen Code.
 
-## Skills
+##🚀 Skills
 - HTML, CSS, JavaScript, Angular
 - PHP, Java
 - GSAP, Bootstrap
 - SQL
 - Figma
 
-## Aktueller Fokus
+## 🔎 Aktueller Fokus
 - Vertiefung von JavaScript
 - Einstieg in TypeScript & React
 
-## Projekte & Kontakt
+## 💬 Projekte & Kontakt
 🌐 https://leonbarzen.de 
 🌐 https://www.remainstudio.de
 🌐 https://www.remainstudio.de
