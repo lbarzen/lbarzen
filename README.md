@@ -15,7 +15,7 @@ Mein Fokus liegt auf moderner Frontend-Entwicklung mit sauberem, responsivem und
 - Einstieg in TypeScript & React
 
 ## 💬 Projekte & Kontakt
-🌐 https://leonbarzen.de 
-🌐 https://www.remainstudio.de
-🌐 https://www.remainstudio.de
+🌐 https://leonbarzen.de <br>
+🌐 https://www.remainstudio.de <br>
+🌐 https://www.remainstudio.de <br>
 📫 Kontakt über die verlinkten sozialen Netzwerke
