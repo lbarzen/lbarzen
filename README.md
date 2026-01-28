@@ -3,7 +3,7 @@
 Junior Frontend Developer mit abgeschlossener Ausbildung als Fachinformatiker für Anwendungsentwicklung.  
 Mein Fokus liegt auf moderner Frontend-Entwicklung mit sauberem, responsivem und modularen Code.
 
-##🚀 Skills
+## 🚀 Skills
 - HTML, CSS, JavaScript, Angular
 - PHP, Java
 - GSAP, Bootstrap
