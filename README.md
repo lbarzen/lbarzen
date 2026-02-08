@@ -17,5 +17,5 @@ Mein Fokus liegt auf moderner Frontend-Entwicklung mit sauberem, responsivem und
 ## 💬 Projekte & Kontakt
 🌐 https://leonbarzen.de <br>
 🌐 https://www.remainstudio.de <br>
-🌐 https://www.remainstudio.de <br>
+🌐 https://www.yuniqstore.de <br>
 📫 Kontakt über die verlinkten sozialen Netzwerke
